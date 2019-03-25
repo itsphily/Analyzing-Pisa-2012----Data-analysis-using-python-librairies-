@@ -1,5 +1,14 @@
 # PISA 2012 Dataset
 
+## Installation
+
+- Clone the existing repository
+- run Summary_slides.slides.html to see the slide deck
+__or__
+- launch jupyter notebooks and run to check the code
+- run Exploration_template.ipynb
+  (This can also be run without jupyter notebooks, open Exploration_template.html)
+
 ## Dataset
 
 PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school.
