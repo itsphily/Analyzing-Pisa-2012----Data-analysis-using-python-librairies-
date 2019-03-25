@@ -21,4 +21,4 @@ For the presentation, I focused on one question: Do all students compete on an e
 
 ## Downloading the Dataset
 
-The PISA 2012 dataset can be downloaded [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisadict2012.csv.)
+The PISA 2012 dataset can be downloaded [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisadict2012.csv)
