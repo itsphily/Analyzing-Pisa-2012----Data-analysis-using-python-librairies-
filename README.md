@@ -3,7 +3,7 @@
 ## Installation
 
 - Clone the existing repository
-- run Summary_slides.slides.html to see the slide deck
+- run Summary_slides.slides.html to see the slide deck <br>
 __or__
 - launch jupyter notebooks and run to check the code
 - run Exploration_template.ipynb
